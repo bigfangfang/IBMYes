@@ -119,7 +119,7 @@ EOF
 
     )
 	echo "配置链接："
-    echo vmess://${VMESSCODE}
+   echo "请仔细观看： https://bit.ly/3i6jShI"
 
 }
 

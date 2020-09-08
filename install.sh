@@ -119,7 +119,7 @@ EOF
     )
 	
    
-       echo "恭喜你到这一步就成功了！Vmess导入客户端后，请务必更改域名中bigfang为你的应用程序名称！请务必根据说明在cloudflare中加速"
+       echo "恭喜你到这一步就成功了！Vmess导入客户端后，请务必将域名中ibmyes变更为你的应用程序名称！请务必根据说明在cloudflare中加速"
 	echo "请观看YouTube影片 IBM Cloud VPS 详细分享：https://bit.ly/3i6jShI"
     echo "我的电报：bigfangfang"
     echo "电报群交流群：https://t.me/dafangbigfang"
